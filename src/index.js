@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(process.env.PORT || 8000, async () => {
-  console.log("SERVER STARTED 🚀🚀");
+  console.log("SERVER STARTED 🚀🚀🚀");
   try {
     // await connection.authenticate();
     // connection.sync();
